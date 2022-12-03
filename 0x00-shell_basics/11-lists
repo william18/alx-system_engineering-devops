@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo ls -lna . .. /boot
+sudo ls -la . .. /boot
