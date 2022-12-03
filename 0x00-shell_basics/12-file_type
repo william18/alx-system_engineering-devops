@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo file /tmp/iamafile
+sudo type -f /tmp/iamafile
 
