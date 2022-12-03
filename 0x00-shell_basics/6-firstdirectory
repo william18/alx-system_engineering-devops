@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p -m a=rwx /tmp/my_first_directory
+mkdir -p -m a=rwx /tmp/my_first_directory/
